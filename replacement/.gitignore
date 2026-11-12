@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+data/runtime/
+data/test-*/
+*.sqlite3*
+*.key
+.env

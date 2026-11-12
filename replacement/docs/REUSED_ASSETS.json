@@ -1,0 +1,26 @@
+[
+  {
+    "path": "static/antique-still-life.png",
+    "sha256": "e638c141014817e4f8ca5bfb44c57b3d6cc9016efc8f60f511d0d1d33a337581",
+    "copied_from": "../demo/assets/antique-still-life.png",
+    "provenance": "../docs/ASSET_LEDGER.json and ../docs/ASSET_INVENTORY.csv",
+    "kind": "existing local concept illustration",
+    "production_transfer": "NOT CLEARED"
+  },
+  {
+    "path": "static/silver-study.png",
+    "sha256": "3ac262fd66a9c1aa77cb639a59ecb553b503c1e3f76cdff60a0a2515676365f1",
+    "copied_from": "../demo/assets/silver-study.png",
+    "provenance": "../docs/ASSET_LEDGER.json and ../docs/ASSET_INVENTORY.csv",
+    "kind": "existing local concept illustration",
+    "production_transfer": "NOT CLEARED"
+  },
+  {
+    "path": "static/showroom-public.jpg",
+    "sha256": "a2faa3ae701303a5b8304a160c826c5be1a81ccc559ac3e24c26c52b3058b689",
+    "copied_from": "../demo/assets/showroom-public.jpg",
+    "provenance": "../docs/ASSET_LEDGER.json and ../docs/ASSET_INVENTORY.csv",
+    "kind": "existing sourced showroom photograph",
+    "production_transfer": "NOT CLEARED"
+  }
+]

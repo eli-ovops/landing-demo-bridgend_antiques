@@ -1,0 +1,735 @@
+{
+  "schemaVersion": 1,
+  "client": "Bridgend Antiques",
+  "owner": "/root",
+  "activeVersion": "v1",
+  "currentEvidence": "Fresh Atlas/Yell research 2026-09-08; user local Demo authorisation",
+  "siteRoot": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/demo",
+  "entry": "index.html",
+  "sourceFiles": [
+    {
+      "path": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "sha256": "6250c28efd55273649199c54fd8175380e844ca6cbfcae213df2972601c6c8fd"
+    }
+  ],
+  "sources": [
+    {
+      "id": "S1",
+      "url": "https://www.yell.com/biz/bridgend-antiques-ballyclare-6999917/",
+      "grade": "B",
+      "retrievedDate": "2026-09-08",
+      "platform": "Public merchant listing / public visitor review",
+      "attribution": "Merchant-specific listing; review claims attributed to reviewer; image dealer-managed hosted shop"
+    },
+    {
+      "id": "S2",
+      "url": "https://www.antiques-atlas.com/bridgendantiques/",
+      "grade": "B",
+      "retrievedDate": "2026-09-08",
+      "platform": "Public merchant listing / public visitor review",
+      "attribution": "Merchant-specific listing; review claims attributed to reviewer; image dealer-managed hosted shop"
+    },
+    {
+      "id": "S3",
+      "url": "https://www.antiques-atlas.com/bridgendantiques/contact.php",
+      "grade": "B",
+      "retrievedDate": "2026-09-08",
+      "platform": "Public merchant listing / public visitor review",
+      "attribution": "Merchant-specific listing; review claims attributed to reviewer; image dealer-managed hosted shop"
+    },
+    {
+      "id": "S4",
+      "url": "https://www.antiques-atlas.com/sites/bridgendantiques/images/bridgendantiques.jpg",
+      "grade": "B",
+      "retrievedDate": "2026-09-08",
+      "platform": "Public merchant listing / public visitor review",
+      "attribution": "Merchant-specific listing; review claims attributed to reviewer; image dealer-managed hosted shop"
+    },
+    {
+      "id": "S6",
+      "url": "https://www.youtube.com/shorts/iet95Lq8_NQ",
+      "grade": "B",
+      "retrievedDate": "2026-09-08",
+      "platform": "Public merchant listing / public visitor review",
+      "attribution": "Merchant-specific listing; review claims attributed to reviewer; image dealer-managed hosted shop"
+    },
+    {
+      "id": "S9",
+      "url": "local-original://imagegen/bridgend-antiques-20260908",
+      "grade": "C",
+      "retrievedDate": "2026-09-08",
+      "platform": "Built-in image generation",
+      "attribution": "Original category artwork generated for this local concept"
+    }
+  ],
+  "assets": [
+    {
+      "id": "AS1",
+      "path": "assets/antique-still-life.png",
+      "originalPath": "assets/antique-still-life.png",
+      "sha256": "e638c141014817e4f8ca5bfb44c57b3d6cc9016efc8f60f511d0d1d33a337581",
+      "originalSha256": "e638c141014817e4f8ca5bfb44c57b3d6cc9016efc8f60f511d0d1d33a337581",
+      "sourceId": "S9",
+      "role": "hero",
+      "focus": "Whole subject visible; contain or original aspect ratio; no factual edit",
+      "authenticity": "CONCEPT",
+      "rights": "Local independent concept; final transfer not established",
+      "permissionEvidence": "User local concept authorisation; tool original generated art"
+    },
+    {
+      "id": "AS2",
+      "path": "assets/silver-study.png",
+      "originalPath": "assets/silver-study.png",
+      "sha256": "3ac262fd66a9c1aa77cb639a59ecb553b503c1e3f76cdff60a0a2515676365f1",
+      "originalSha256": "3ac262fd66a9c1aa77cb639a59ecb553b503c1e3f76cdff60a0a2515676365f1",
+      "sourceId": "S9",
+      "role": "selling",
+      "focus": "Whole subject visible; contain or original aspect ratio; no factual edit",
+      "authenticity": "CONCEPT",
+      "rights": "Local independent concept; final transfer not established",
+      "permissionEvidence": "User local concept authorisation; tool original generated art"
+    },
+    {
+      "id": "AS3",
+      "path": "assets/objects-study.png",
+      "originalPath": "assets/objects-study.png",
+      "sha256": "a4333214311ced5a8f91cbd2c4a807b032ab03acd179417b465bdd94ced0392b",
+      "originalSha256": "a4333214311ced5a8f91cbd2c4a807b032ab03acd179417b465bdd94ced0392b",
+      "sourceId": "S9",
+      "role": "catalogue",
+      "focus": "Whole subject visible; contain or original aspect ratio; no factual edit",
+      "authenticity": "CONCEPT",
+      "rights": "Local independent concept; final transfer not established",
+      "permissionEvidence": "User local concept authorisation; tool original generated art"
+    },
+    {
+      "id": "AS4",
+      "path": "assets/showroom-public.jpg",
+      "originalPath": "assets/showroom-public.jpg",
+      "sha256": "a2faa3ae701303a5b8304a160c826c5be1a81ccc559ac3e24c26c52b3058b689",
+      "originalSha256": "a2faa3ae701303a5b8304a160c826c5be1a81ccc559ac3e24c26c52b3058b689",
+      "sourceId": "S4",
+      "role": "visit",
+      "focus": "Whole subject visible; contain or original aspect ratio; no factual edit",
+      "authenticity": "REAL",
+      "rights": "Local independent concept; final transfer not established",
+      "permissionEvidence": "User B dealer-attributable concept allowance; source is dealer-managed Atlas shop"
+    }
+  ],
+  "items": [
+    {
+      "id": "identity",
+      "baselineId": "BASE1",
+      "sourceId": "S2",
+      "selector": ".brand",
+      "section": "header",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Bridgend Antiques"
+    },
+    {
+      "id": "selling",
+      "baselineId": "BASE2",
+      "sourceId": "S1",
+      "selector": "#hero-intro",
+      "section": "hero",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "antiques, gold and silver"
+    },
+    {
+      "id": "silver",
+      "baselineId": "BASE2",
+      "sourceId": "S1",
+      "selector": "#selling-title",
+      "section": "selling",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Gold, silver & antiques"
+    },
+    {
+      "id": "mobile",
+      "baselineId": "BASE3",
+      "sourceId": "S3",
+      "selector": "#hero-call",
+      "section": "hero",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "tel:+447966751699",
+      "promise": "Call Hector by mobile"
+    },
+    {
+      "id": "mobile-bottom",
+      "baselineId": "BASE3",
+      "sourceId": "S3",
+      "selector": "#mobile",
+      "section": "visit",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "tel:+447966751699",
+      "promise": "Call public business mobile"
+    },
+    {
+      "id": "landline",
+      "baselineId": "BASE4",
+      "sourceId": "S3",
+      "selector": "#landline",
+      "section": "visit",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "tel:+442893341979",
+      "promise": "Call shop public landline"
+    },
+    {
+      "id": "email",
+      "baselineId": "BASE5",
+      "sourceId": "S3",
+      "selector": "#email",
+      "section": "visit",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "mailto:[REDACTED_EMAIL]",
+      "promise": "Open email application to public business address"
+    },
+    {
+      "id": "address",
+      "baselineId": "BASE6",
+      "sourceId": "S3",
+      "selector": "#address",
+      "section": "visit",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "50 Church Road"
+    },
+    {
+      "id": "directions",
+      "baselineId": "BASE6",
+      "sourceId": "S3",
+      "selector": "#directions",
+      "section": "visit",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "https://www.google.com/maps/search/?api=1&query=Bridgend+Antiques+50+Church+Road+Ballynure+BT39+9UF",
+      "promise": "Search the verified business address on Google Maps"
+    },
+    {
+      "id": "review",
+      "baselineId": "BASE7",
+      "sourceId": "S1",
+      "selector": "#review-quote",
+      "section": "proof",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Paid us on the spot without any quibble."
+    },
+    {
+      "id": "review-source",
+      "baselineId": "BASE7",
+      "sourceId": "S1",
+      "selector": "#review-source",
+      "section": "proof",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "https://www.yell.com/biz/bridgend-antiques-ballyclare-6999917/",
+      "promise": "Read publicly attributed silver seller review on Yell"
+    },
+    {
+      "id": "catalogue",
+      "baselineId": "BASE8",
+      "sourceId": "S2",
+      "selector": "#catalogue-link",
+      "section": "catalogue",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "https://www.antiques-atlas.com/bridgendantiques/",
+      "promise": "Browse current catalogue on Antiques Atlas"
+    },
+    {
+      "id": "contact-form",
+      "baselineId": "BASE8",
+      "sourceId": "S3",
+      "selector": "#atlas-contact",
+      "section": "visit",
+      "applicability": "YES",
+      "disposition": "FACT/PARAPHRASE USE",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "href": "https://www.antiques-atlas.com/bridgendantiques/contact.php",
+      "promise": "Open existing external Atlas contact page"
+    },
+    {
+      "id": "showroom",
+      "baselineId": "BASE9",
+      "sourceId": "S4",
+      "selector": "#showroom-photo",
+      "section": "visit",
+      "applicability": "YES",
+      "disposition": "DIRECT USE",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "AS4"
+    },
+    {
+      "id": "concept-1",
+      "baselineId": "BASE10",
+      "sourceId": "S9",
+      "selector": "#hero-art",
+      "section": "hero",
+      "applicability": "YES",
+      "disposition": "CONCEPT VISUAL REPLACEMENT",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "AS1"
+    },
+    {
+      "id": "concept-2",
+      "baselineId": "BASE10",
+      "sourceId": "S9",
+      "selector": "#silver-art",
+      "section": "selling",
+      "applicability": "YES",
+      "disposition": "CONCEPT VISUAL REPLACEMENT",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "AS2"
+    },
+    {
+      "id": "concept-3",
+      "baselineId": "BASE10",
+      "sourceId": "S9",
+      "selector": "#objects-art",
+      "section": "catalogue",
+      "applicability": "YES",
+      "disposition": "CONCEPT VISUAL REPLACEMENT",
+      "factState": "OBSERVED FACT",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "assetId": "AS3"
+    },
+    {
+      "id": "hours",
+      "baselineId": "BASE11",
+      "sourceId": "S3",
+      "selector": "#visit-note",
+      "section": "visit",
+      "applicability": "YES",
+      "disposition": "TIME-SENSITIVE VERIFY/REPHRASE",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "text": "Please telephone before travelling"
+    },
+    {
+      "id": "excluded-12",
+      "baselineId": "BASE12",
+      "sourceId": "S6",
+      "selector": "",
+      "section": "excluded",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "reason": "Private video unavailable to anonymous visitors; no playable source or usable thumbnail."
+    },
+    {
+      "id": "excluded-13",
+      "baselineId": "BASE13",
+      "sourceId": "S2",
+      "selector": "",
+      "section": "excluded",
+      "applicability": "NO",
+      "disposition": "EXCLUDE",
+      "factState": "SOURCE CLAIM",
+      "mappingStatus": "OWNER_CONFIRMED",
+      "viewports": [
+        "desktop",
+        "mobile"
+      ],
+      "reason": "No verified usable official logo, portrait, social account or credentials; no invented replacements."
+    }
+  ],
+  "hero": {
+    "selector": "#hero",
+    "ctaSelector": "#hero-call"
+  },
+  "sections": [
+    "#hero",
+    "#selling",
+    "#proof",
+    "#catalogue",
+    "#visit"
+  ],
+  "coverageReview": "OWNER_RECONCILED",
+  "customerAuthorization": "NOT VERIFIED",
+  "transferEligibility": "UNKNOWN",
+  "researchCandidates": [
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 2,
+      "text": "identity,Bridgend Antiques Ballynure,S2,header"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 3,
+      "text": "selling,Antiques gold and silver bought,S1,hero and selling"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 4,
+      "text": "mobile,07966751699,S3,hero and contact"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 5,
+      "text": "landline,02893341979,S3,contact"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 6,
+      "text": "email,[REDACTED_EMAIL],S3,contact"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 7,
+      "text": "address,50 Church Road Ballynure Ballyclare Co Antrim BT39 9UF,S3,visit"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 8,
+      "text": "review,JohnG-2782 silver seller review 01 Sep 2026,S1,proof"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 9,
+      "text": "catalogue,External live Atlas catalogue,S2,catalogue"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 10,
+      "text": "showroom,Real showroom triptych,S4,visit"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 11,
+      "text": "concept,Original category visuals replace watermarked stock,S9,hero selling catalogue"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 12,
+      "text": "hours,Conflicting hours call before travelling,S3,visit"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 13,
+      "text": "privatevideo,Private YouTube unavailable,S6,exclude"
+    },
+    {
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 14,
+      "text": "unverified,No verified logo portrait credentials social,S2,exclude"
+    }
+  ],
+  "baseline": [
+    {
+      "id": "BASE1",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 2,
+      "excerpt": "identity,Bridgend Antiques Ballynure,S2,header",
+      "excerptSha256": "06f154b19bf071752cc9279cb440eeee28cb71f28437785c6a0809c9e3513c66",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "identity"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Source fact consolidated into related visible actions or specifically excluded unavailable material."
+    },
+    {
+      "id": "BASE2",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 3,
+      "excerpt": "selling,Antiques gold and silver bought,S1,hero and selling",
+      "excerptSha256": "5a48adc616aeef0b6fb8f16091242dda020a41ca851a4ad8133151bf11a3ff24",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "selling",
+        "silver"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Source fact consolidated into related visible actions or specifically excluded unavailable material."
+    },
+    {
+      "id": "BASE3",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 4,
+      "excerpt": "mobile,07966751699,S3,hero and contact",
+      "excerptSha256": "898573505c8baff2656fa217ad84be8d1edad7caaafc1a23b0372accec5fd3bb",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "mobile",
+        "mobile-bottom"
+      ],
+      "sourceIds": [
+        "S3"
+      ],
+      "reason": "Source fact consolidated into related visible actions or specifically excluded unavailable material."
+    },
+    {
+      "id": "BASE4",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 5,
+      "excerpt": "landline,02893341979,S3,contact",
+      "excerptSha256": "a80cfc3fa053ac2b7a596cecde5489e72261b1c4d8a0c4ddb130216cb912f621",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "landline"
+      ],
+      "sourceIds": [
+        "S3"
+      ],
+      "reason": "Source fact consolidated into related visible actions or specifically excluded unavailable material."
+    },
+    {
+      "id": "BASE5",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 6,
+      "excerpt": "email,[REDACTED_EMAIL],S3,contact",
+      "excerptSha256": "4b3c50568054a676621f6602ad237124535df0f8214093f2fe8a6b7b6b69914d",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "email"
+      ],
+      "sourceIds": [
+        "S3"
+      ],
+      "reason": "Source fact consolidated into related visible actions or specifically excluded unavailable material."
+    },
+    {
+      "id": "BASE6",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 7,
+      "excerpt": "address,50 Church Road Ballynure Ballyclare Co Antrim BT39 9UF,S3,visit",
+      "excerptSha256": "7569da62e1872e855fc61d26ed9daa525b68be52a946419feda1233682fa0c65",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "address",
+        "directions"
+      ],
+      "sourceIds": [
+        "S3"
+      ],
+      "reason": "Source fact consolidated into related visible actions or specifically excluded unavailable material."
+    },
+    {
+      "id": "BASE7",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 8,
+      "excerpt": "review,JohnG-2782 silver seller review 01 Sep 2026,S1,proof",
+      "excerptSha256": "51fb82e97ad59bbc841e5d88a80f0b15fff4a6cd7bda843aba2a4c3f96e3c859",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "review",
+        "review-source"
+      ],
+      "sourceIds": [
+        "S1"
+      ],
+      "reason": "Source fact consolidated into related visible actions or specifically excluded unavailable material."
+    },
+    {
+      "id": "BASE8",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 9,
+      "excerpt": "catalogue,External live Atlas catalogue,S2,catalogue",
+      "excerptSha256": "5b907aa31854104e5c3cc7b79f89a473998c32032a53a002ab840af38a5bd204",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "catalogue",
+        "contact-form"
+      ],
+      "sourceIds": [
+        "S2",
+        "S3"
+      ],
+      "reason": "Source fact consolidated into related visible actions or specifically excluded unavailable material."
+    },
+    {
+      "id": "BASE9",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 10,
+      "excerpt": "showroom,Real showroom triptych,S4,visit",
+      "excerptSha256": "4e6e91a3c50a13285d3fb44011844bd3b3aa004d47d6923bfb6b726b04af0aa9",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "showroom"
+      ],
+      "sourceIds": [
+        "S4"
+      ],
+      "reason": "Source fact consolidated into related visible actions or specifically excluded unavailable material."
+    },
+    {
+      "id": "BASE10",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 11,
+      "excerpt": "concept,Original category visuals replace watermarked stock,S9,hero selling catalogue",
+      "excerptSha256": "b537f3b7f046ad8294f2a84a2fda06adaa0f159628a97d7fe7449b1b66778edb",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "concept-1",
+        "concept-2",
+        "concept-3"
+      ],
+      "sourceIds": [
+        "S9"
+      ],
+      "reason": "Source fact consolidated into related visible actions or specifically excluded unavailable material."
+    },
+    {
+      "id": "BASE11",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 12,
+      "excerpt": "hours,Conflicting hours call before travelling,S3,visit",
+      "excerptSha256": "a04c368a386741966a6810c3877627262b9c2328c90e54313e14150ef519ebc1",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "hours"
+      ],
+      "sourceIds": [
+        "S3"
+      ],
+      "reason": "Source fact consolidated into related visible actions or specifically excluded unavailable material."
+    },
+    {
+      "id": "BASE12",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 13,
+      "excerpt": "privatevideo,Private YouTube unavailable,S6,exclude",
+      "excerptSha256": "27a622f1980c0674d81db62a930ec6ddc4349fd5f9ed7897e0d57c30ce9f5eaf",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "excluded-12"
+      ],
+      "sourceIds": [
+        "S6"
+      ],
+      "reason": "Source fact consolidated into related visible actions or specifically excluded unavailable material."
+    },
+    {
+      "id": "BASE13",
+      "file": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/docs/activation-source.csv",
+      "line": 14,
+      "excerpt": "unverified,No verified logo portrait credentials social,S2,exclude",
+      "excerptSha256": "c5c87caf72c055d9897d8187df9aba4debda386de82a0261b8fd7dc607fc3808",
+      "disposition": "MAPPED",
+      "itemIds": [
+        "excluded-13"
+      ],
+      "sourceIds": [
+        "S2"
+      ],
+      "reason": "Source fact consolidated into related visible actions or specifically excluded unavailable material."
+    }
+  ]
+}

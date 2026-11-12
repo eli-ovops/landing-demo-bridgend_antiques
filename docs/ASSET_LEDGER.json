@@ -1,0 +1,46 @@
+[
+  {
+    "path": "assets/antique-still-life.png",
+    "sha256": "e638c141014817e4f8ca5bfb44c57b3d6cc9016efc8f60f511d0d1d33a337581",
+    "role": "hero",
+    "authenticity": "CONCEPT",
+    "source": "built-in imagegen exec-d5463e54-c8c9-4dfd-9afc-71fbe4591525",
+    "date": "2026-09-08",
+    "treatment": "Unmodified original; CSS sizing only; no fact changes",
+    "attribution": "Original conceptual category artwork; not merchant stock",
+    "rights": "Local independent concept scope only; final transfer UNKNOWN"
+  },
+  {
+    "path": "assets/silver-study.png",
+    "sha256": "3ac262fd66a9c1aa77cb639a59ecb553b503c1e3f76cdff60a0a2515676365f1",
+    "role": "selling",
+    "authenticity": "CONCEPT",
+    "source": "built-in imagegen exec-be983eca-0c11-4d9b-baf9-cafafb874691",
+    "date": "2026-09-08",
+    "treatment": "Unmodified original; CSS sizing only; no fact changes",
+    "attribution": "Original conceptual category artwork; not merchant stock",
+    "rights": "Local independent concept scope only; final transfer UNKNOWN"
+  },
+  {
+    "path": "assets/objects-study.png",
+    "sha256": "a4333214311ced5a8f91cbd2c4a807b032ab03acd179417b465bdd94ced0392b",
+    "role": "catalogue",
+    "authenticity": "CONCEPT",
+    "source": "built-in imagegen exec-daa69084-08c2-460a-bb74-8c5ff23a2f2c",
+    "date": "2026-09-08",
+    "treatment": "Unmodified original; CSS sizing only; no fact changes",
+    "attribution": "Original conceptual category artwork; not merchant stock",
+    "rights": "Local independent concept scope only; final transfer UNKNOWN"
+  },
+  {
+    "path": "assets/showroom-detail.jpg",
+    "sha256": "3cdba2effd6edf20c3d2d6e934c631ee6fcf538c40043e7c83ef0316f0abafce",
+    "role": "visit",
+    "authenticity": "REAL",
+    "source": "https://c.yell.com/a1953832-61ae-4717-9052-35326532adec_image_jpeg.jpg",
+    "date": "2026-09-08",
+    "treatment": "Unmodified public2016x1512 original, replaces low-resolution triptych; CSS original aspect ratio",
+    "attribution": "Exact same scene/composition as first Atlas dealer-managed triptych image, independent reviewer verified identity; larger original CDN image, unmodified",
+    "rights": "Local independent concept scope only; final transfer UNKNOWN"
+  }
+]

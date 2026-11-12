@@ -1,0 +1,12 @@
+test_01_inventory_and_routes (__main__.AppTests.test_01_inventory_and_routes) ... ok
+test_02_inquiry_persistence_and_duplicate (__main__.AppTests.test_02_inquiry_persistence_and_duplicate) ... ok
+test_03_access_csrf_revocation (__main__.AppTests.test_03_access_csrf_revocation) ... ok
+test_04_edit_import_upload (__main__.AppTests.test_04_edit_import_upload) ... ok
+test_05_backup_restore (__main__.AppTests.test_05_backup_restore) ... ok
+test_06_regressions (__main__.AppTests.test_06_regressions) ... ok
+test_07_recovery_content (__main__.AppTests.test_07_recovery_content) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.586s
+
+OK

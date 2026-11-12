@@ -1,0 +1,1 @@
+<article class="product-card"><a href="/product/{{p.id}}">{% if images.get(p.id) %}<img src="/media/{{images[p.id][0].path}}" alt="{{images[p.id][0].alt}}" loading="lazy" width="600" height="500">{% endif %}<p class="eyebrow">{{p.status.replace('_',' ')}}</p><h2>{{p.title}}</h2><p>{{p|money}}</p><span class="text-link">View piece ↗</span></a></article>

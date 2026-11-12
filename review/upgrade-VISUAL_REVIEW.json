@@ -1,0 +1,131 @@
+{
+  "reviewer": {
+    "taskId": "/root/bridgend_review",
+    "name": "Independent Bridgend Pre-code and Visual Reviewer",
+    "identityEvidence": "Parent /root dispatched independent review via collaboration; reviewer authored only client_bridgend_antiques/review; no website edits."
+  },
+  "inputHash": "bcc9cebcdc35fe3f1c28ba724d1a79a20e5aaed1d24b1e8a75a17612f223e0e4",
+  "resultSha256": "08c2921ab4008dfc8c0d71fbf4941d2e97ebf97f3f7d44486f7be662759cc12a",
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "9367d30ce5fe118965b9cec2c78cb89913b804feba1c00d12934b0887f2bb078"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "0fad48f76c7ce536906a76f32dd644b231f718ec26dde496549c4c290f9dfad5"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "9967dd0881a17aabb1124ab98cb3b869ffe0a5cfc17917ae7293fb660a97d58e"
+    },
+    {
+      "path": "desktop-section-0.png",
+      "sha256": "99f04cb4172f605efd16a4ce431df3db86f716d14535bae278f0527181f77409"
+    },
+    {
+      "path": "desktop-section-1.png",
+      "sha256": "a10e801917f87a6dc1ce36637d898953cb88cef780a9cb852bdf01b67bfd6b67"
+    },
+    {
+      "path": "desktop-section-2.png",
+      "sha256": "653abbeda442d6bfc3a402007cc2fd2289baaf014d7db6d66f1ed4b156d1f777"
+    },
+    {
+      "path": "desktop-section-3.png",
+      "sha256": "f3d6f8f2dab901675caec6c9862b31cee132707cceb61ff85c4dd4056a7223d2"
+    },
+    {
+      "path": "desktop-section-4.png",
+      "sha256": "7d13ebe9a7b0068abd1357b58fc2e86fe4852154ba9f67c9559e6fb051ca9ad3"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "726d6a71ada0c7c85d4fba1beca8292d18438831ecfd09c4c31869efa41cfeae"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "4c149460febaa32ac4aa0883d57f5570a22cad0543103ed57ad19cacd7ee8e50"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "42ba41cca2228882dd3d5d741c1b6d3dffe1117d0ffabfebb3bc74dd82ba31fd"
+    },
+    {
+      "path": "mobile-section-0.png",
+      "sha256": "eab1d4223e5042373b96b453e4130045738a7230dc6f5b8528a08f80b90c13b9"
+    },
+    {
+      "path": "mobile-section-1.png",
+      "sha256": "8ff7a7cb9fc35584571091f889e3e83d2e96b7a1b75af2651b633e368da36a5f"
+    },
+    {
+      "path": "mobile-section-2.png",
+      "sha256": "9cf6557891e4c17898f1b03e56c4120966fa4fca8df0de9af2945af3d00a3c10"
+    },
+    {
+      "path": "mobile-section-3.png",
+      "sha256": "dbc2f2a9b4789abf6d79c2baa12194e6da15f27f08ce2136e168467675fe62bc"
+    },
+    {
+      "path": "mobile-section-4.png",
+      "sha256": "4314521172fea92b808a460852dfe32c550b636e481b7d9029401250872591f2"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "dd6f2711f831d58b23459bc9004315e252475f7d839195cf047227a45a5ab83b"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "ac720c0be04a722a3768782c1b43256a52d97bd7c7cb198e342cb697570fc1d0"
+    }
+  ],
+  "viewportFindings": {
+    "desktop": "1440x900 top/full and updated selling/proof/visit sections inspected. Hero letterbox seam resolved; buying list/FAQ balanced, two proofs distinct, real full shop photo and historical episode reference integrated with visit/contacts.",
+    "mobile": "390x844 top/full and updated sections inspected at native width. Call in first screen. New FAQ/2proofs/shop/story/contacts remain readable and ordered. Length increased to5078px with meaningful content; source links/tap targets visible."
+  },
+  "businessFindings": {
+    "recognition": "PASS antique image and direct selling proposition still immediately recognizable.",
+    "upgrade": "PASS buyer catalogue preserved; more specific seller categories and practical enquiry advice plus distinct advice/payment proof.",
+    "reply": "PASS stronger reason to discuss own seller-first page; actual purchase interest remains UNKNOWN,9 target not achieved.",
+    "bottom40": "PASS true showroom at useful size, dealer history, accurately attributed TV visit, route and contacts provide local confidence.",
+    "replacement": "PASS static presentation with external Atlas, no inventory/checkout replacement."
+  },
+  "assetFindings": {
+    "AS1": "PASS conceptual antique image, clear cabinet/mirror at both sizes, no actual-stock claim.",
+    "AS2": "PASS conceptual silver/gold image; desktop edges crop incidental spoon/chain ends, principal category and rings intact. Mobile full scene clear. No claim of merchant-owned items.",
+    "AS3": "PASS conceptual clock/porcelain illustration alongside explicit external catalogue/current-items text; no price or buy button for depicted objects.",
+    "AS4": "PASS2016x1512 original public showroom, visually matched with Atlas dealer-managed triptych; unaltered source, no watermark or portrait, one placement. B local concept attribution, not copyright transfer. Other Yell object photos excluded due uncertain upload attribution."
+  },
+  "rubric": {
+    "品牌辨识度": 8.5,
+    "素材真实性": 8.25,
+    "客户了解度 / 资产整合": 9,
+    "首屏张力": 8.75,
+    "排版层级": 9,
+    "节奏 / 留白": 8.5,
+    "商业说服": 8.75,
+    "移动端": 9,
+    "原创 / 去模板感": 8.5,
+    "老板购买欲 / Current Offer 价值感": 8.25
+  },
+  "average": 8.65,
+  "finalPass": true,
+  "conclusions": {
+    "INDEPENDENT VISUAL ACCEPTANCE": "PASS",
+    "VISUAL QUALITY RUBRIC": "PASS",
+    "CLIENT-SHOWABLE DEMO": "PASS",
+    "REPLACEMENT-READY FINAL": "PASS",
+    "BOTTOM 40% COMMERCIAL QA": "PASS",
+    "CLIENT-VISIBLE INTERNAL-TEXT GATE": "PASS",
+    "Hook": "PASS",
+    "Product": "PASS"
+  },
+  "remainingP0P1": 0,
+  "timeAnomaly": "Upgrade began approximately13:25, final run13:32; exact total including prior preparation UNKNOWN. Prior source/direction/QA reused; quality judged on updated source and current rendered evidence, no speed waiver.",
+  "target9Achieved": false,
+  "sourcesIndependentlyRead": [
+    "https://www.yell.com/biz/bridgend-antiques-ballyclare-6999917/",
+    "https://www.pbs.org/video/paul-laidlaw-and-catherine-southon-day-2-0zauil/"
+  ]
+}

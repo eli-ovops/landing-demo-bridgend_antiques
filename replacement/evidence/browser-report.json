@@ -1,0 +1,149 @@
+[
+  {
+    "width": 1440,
+    "route": "/",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "route": "/catalogue",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "route": "/product/as619a1227",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "route": "/contact",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "route": "/services",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "route": "/reviews",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "width": 1440,
+    "route": "/admin/setup",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "route": "/",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "route": "/catalogue",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "route": "/product/as619a1227",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "route": "/contact",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "route": "/services",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "route": "/reviews",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "width": 390,
+    "route": "/admin/setup",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "route": "/",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "route": "/catalogue",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "route": "/product/as619a1227",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "route": "/contact",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "route": "/services",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "route": "/reviews",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  },
+  {
+    "width": 320,
+    "route": "/admin/setup",
+    "status": 200,
+    "overflow": false,
+    "errors": []
+  }
+]

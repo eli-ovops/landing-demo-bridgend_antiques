@@ -1,0 +1,126 @@
+{
+  "reviewer": {
+    "taskId": "/root/bridgend_review",
+    "name": "Independent Bridgend Pre-code and Visual Reviewer",
+    "identityEvidence": "Parent /root dispatched independent review via collaboration; reviewer authored only client_bridgend_antiques/review; no website edits."
+  },
+  "inputHash": "7c007623674665a64988e2d0658d8a9be1e4ce324b70f66544d83abe9ae472b7",
+  "resultSha256": "115b896b01e6bf84338e69daf1a36758183523718012df4a34996631e5c7097e",
+  "evidence": [
+    {
+      "path": "browser.json",
+      "sha256": "5b0b7d698ca2504ebc6852de5d962a82781a2144becfe94ad58d64cf95deb83d"
+    },
+    {
+      "path": "contract-summary.md",
+      "sha256": "74547a7814a149c37a24a3ecf606760e07f8fd9e3b2807743dfd8d62e6ced7b3"
+    },
+    {
+      "path": "desktop-full.png",
+      "sha256": "fc9b3f3073225d0fc9c41c22e19b464710cce3790c14b79ebde6f070b832fab6"
+    },
+    {
+      "path": "desktop-section-0.png",
+      "sha256": "b093ce8ea8d53ffd04f0c2ab9ef2d08c78f4bf0e0c5decbb2b9daa0d9ac5eeb8"
+    },
+    {
+      "path": "desktop-section-1.png",
+      "sha256": "cdfe5c1e50a18de3fa907cc85abcaad39fd7710dfae3677dd210ce46e7c3376e"
+    },
+    {
+      "path": "desktop-section-2.png",
+      "sha256": "d46dd403f99ebb7d842d99b8021b8a43724e5b2077280cbdc154c95c4acfe639"
+    },
+    {
+      "path": "desktop-section-3.png",
+      "sha256": "071cc1ed8595367fb93c8754e2542825b5607964a2a0da58f72cf8a02a33abb2"
+    },
+    {
+      "path": "desktop-section-4.png",
+      "sha256": "843d9e23d0e4ca7d9c44499b32dd4f83a832581dde71b8913b06b51a9884797b"
+    },
+    {
+      "path": "desktop-top.png",
+      "sha256": "aca37c2e2dc0a4f83d4cb85551e3ae7c4348865f8c93d4caf631204829c3fa63"
+    },
+    {
+      "path": "inputs.json",
+      "sha256": "d0212bf06951dabdcb380e72070487bd22927cc0bc1151e7cf22ba89d2ec515e"
+    },
+    {
+      "path": "mobile-full.png",
+      "sha256": "e1220c6439a2bce6b3c9a247b3e437e32ac3963483fc1de5c40fd4af6410e780"
+    },
+    {
+      "path": "mobile-section-0.png",
+      "sha256": "fff4e768ac6b42247da7af80c8ce49282b7e8784f0737c65eead598097c0ad55"
+    },
+    {
+      "path": "mobile-section-1.png",
+      "sha256": "d1a4bf550aa6541f7a64375305782de63fc6b7e44d8a52450db79355b223a092"
+    },
+    {
+      "path": "mobile-section-2.png",
+      "sha256": "3d0afc1d1605af465d4a8fea5ac01a2cc83de61eea245784bb9eaceb7904ce9d"
+    },
+    {
+      "path": "mobile-section-3.png",
+      "sha256": "22b42cbd63b17843726e0977db697bcc40ab3fc8cc8157c796d9b1d035fbd0f9"
+    },
+    {
+      "path": "mobile-section-4.png",
+      "sha256": "4db0d29577e46efa4c8f610915320fe5a9864150fab8e4f2740a0c1ddfbdfb2b"
+    },
+    {
+      "path": "mobile-top.png",
+      "sha256": "35a9c81ead424630ae3de1b0aaecaef6ec002dd0197ac2c7631e0ba8479d64cd"
+    },
+    {
+      "path": "visual-review-tasks.json",
+      "sha256": "5b358de0684f0d157d902327ac74f9b2782b4e7c017227523fb92e6a69e8df8e"
+    }
+  ],
+  "viewportFindings": {
+    "desktop": "1440x900 top, full and individual selling/proof/catalogue/visit images inspected. Hero industry recognizable; all primary contact and buyer catalogue paths clear; real showroom unaltered and readable; no blocking crop/overlap.",
+    "mobile": "390x844 top/full and section images inspected. Call CTA visible first screen, imagery within first viewport, no clipped headline, all four visuals and visit contacts readable. Layout retains full narrative."
+  },
+  "businessFindings": {
+    "recognition": "PASS: mahogany chest/mirror communicate antiques without main copy.",
+    "upgrade": "PASS: seller intent and immediate phone action precede catalogue; proof attributed to Yell; existing Atlas paths preserved. Yell already serves sellers so this is presentation consolidation, not proof of incremental demand.",
+    "reply": "PASS: recognizable local shop and clearer seller entry can justify discussing a finished static page. Actual willingness to pay UNKNOWN.",
+    "bottom40": "PASS: buyer catalogue route followed by real red showroom, full address, travel advice, two phones, email and platform contact adds real visit reassurance and visual payoff.",
+    "replacement": "PASS for standalone seller-first presentation slice plus external Atlas; not replacement of dynamic inventory/checkout."
+  },
+  "assetFindings": {
+    "AS1": "PASS conceptual antique image, clear cabinet/mirror at both sizes, no actual-stock claim.",
+    "AS2": "PASS conceptual silver/gold image; desktop edges crop incidental spoon/chain ends, principal category and rings intact. Mobile full scene clear. No claim of merchant-owned items.",
+    "AS3": "PASS conceptual clock/porcelain illustration alongside explicit external catalogue/current-items text; no price or buy button for depicted objects.",
+    "AS4": "PASS actual attributable showroom triptych unchanged, one unique placement; no thumbnail slicing/repetition, legible at native desktop size and downscaled mobile."
+  },
+  "rubric": {
+    "品牌辨识度": 8,
+    "素材真实性": 7.5,
+    "客户了解度 / 资产整合": 8,
+    "首屏张力": 8.5,
+    "排版层级": 8.5,
+    "节奏 / 留白": 8,
+    "商业说服": 8,
+    "移动端": 8.5,
+    "原创 / 去模板感": 8,
+    "老板购买欲 / Current Offer 价值感": 7.5
+  },
+  "average": 8.05,
+  "finalPass": true,
+  "conclusions": {
+    "INDEPENDENT VISUAL ACCEPTANCE": "PASS",
+    "VISUAL QUALITY RUBRIC": "PASS",
+    "CLIENT-SHOWABLE DEMO": "PASS",
+    "REPLACEMENT-READY FINAL": "PASS",
+    "BOTTOM 40% COMMERCIAL QA": "PASS",
+    "CLIENT-VISIBLE INTERNAL-TEXT GATE": "PASS",
+    "Hook": "PASS",
+    "Product": "PASS"
+  },
+  "remainingP0P1": 0,
+  "timeAnomaly": "Reported 15.4 minutes from workspace creation excludes earlier preparation; total from first authority read UNKNOWN. TIME ANOMALY REVIEW performed: prior deep research/baseline reused, precode reviewed independently, three generated originals+real showroom examined, responsive evidence and real code checked. Quality accepted on evidence, not speed. Do not report15.4 as total production time."
+}

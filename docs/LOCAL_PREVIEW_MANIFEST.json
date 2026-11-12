@@ -1,0 +1,44 @@
+{
+  "package": "LOCAL_PREVIEW_PACKAGE",
+  "version": "v1-content-refinement",
+  "files": [
+    {
+      "path": "assets/antique-still-life.png",
+      "bytes": 2312753,
+      "sha256": "e638c141014817e4f8ca5bfb44c57b3d6cc9016efc8f60f511d0d1d33a337581"
+    },
+    {
+      "path": "assets/objects-study.png",
+      "bytes": 2353973,
+      "sha256": "a4333214311ced5a8f91cbd2c4a807b032ab03acd179417b465bdd94ced0392b"
+    },
+    {
+      "path": "assets/showroom-detail.jpg",
+      "bytes": 603011,
+      "sha256": "3cdba2effd6edf20c3d2d6e934c631ee6fcf538c40043e7c83ef0316f0abafce"
+    },
+    {
+      "path": "assets/showroom-public.jpg",
+      "bytes": 120965,
+      "sha256": "a2faa3ae701303a5b8304a160c826c5be1a81ccc559ac3e24c26c52b3058b689"
+    },
+    {
+      "path": "assets/silver-study.png",
+      "bytes": 2349224,
+      "sha256": "3ac262fd66a9c1aa77cb639a59ecb553b503c1e3f76cdff60a0a2515676365f1"
+    },
+    {
+      "path": "index.html",
+      "bytes": 8673,
+      "sha256": "2db0ec0dd076d2fe2c1e111d827ef418cee1fd07a09cab4d3d8f3f216bdb19da"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 17810,
+      "sha256": "1847637e115a396dd3396e65b15c6eb664ca98cbd9dcbe8b4b0e0b1421a66b35"
+    }
+  ],
+  "created": "2026-09-08T13:34:21.932168+08:00",
+  "deployment": "NOT AUTHORISED",
+  "transfer": "UNKNOWN"
+}

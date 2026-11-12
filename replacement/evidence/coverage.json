@@ -1,0 +1,26 @@
+{
+  "source_date": "2026-09-08T06:05:52.390Z",
+  "source_ids": 282,
+  "local_ids": 282,
+  "missing_ids": [],
+  "extra_ids": [],
+  "statuses": {
+    "for_sale": 65,
+    "sold": 217
+  },
+  "missing_fields": {
+    "title": [],
+    "description": [],
+    "source_code": [],
+    "source_url": [],
+    "source_hash": []
+  },
+  "categories": 28,
+  "images_total": 1438,
+  "images_usable": 0,
+  "source_form_signatures": {
+    "s,id,": 282,
+    "name,email,tel,location,comments,s,price,actualprice,idcode,itemname,dealer,action": 282
+  },
+  "product_route_failures": []
+}

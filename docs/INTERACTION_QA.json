@@ -1,0 +1,210 @@
+{
+  "date": "2026-09-08T05:18:01.920Z",
+  "notes": "No telephone or email client invoked. Native href targets inspected. Local anchors clicked; external source pages verified in fresh research.",
+  "findings": [
+    {
+      "width": 320,
+      "firstFocus": "Skip to content",
+      "skipWorks": true,
+      "sellingWorks": true,
+      "errors": [],
+      "scrollWidth": 320,
+      "images": [
+        {
+          "src": "assets/antique-still-life.png",
+          "decoded": true
+        },
+        {
+          "src": "assets/silver-study.png",
+          "decoded": true
+        },
+        {
+          "src": "assets/objects-study.png",
+          "decoded": true
+        },
+        {
+          "src": "assets/showroom-public.jpg",
+          "decoded": true
+        }
+      ],
+      "cta": [
+        {
+          "href": "tel:+447966751699",
+          "height": 56
+        },
+        {
+          "href": "tel:+447966751699",
+          "height": 44
+        },
+        {
+          "href": "tel:+442893341979",
+          "height": 44
+        },
+        {
+          "href": "mailto:[REDACTED_EMAIL]",
+          "height": 44
+        }
+      ],
+      "external": [
+        "https://www.antiques-atlas.com/bridgendantiques/",
+        "https://www.yell.com/biz/bridgend-antiques-ballyclare-6999917/",
+        "https://www.google.com/maps/search/?api=1&query=Bridgend+Antiques+50+Church+Road+Ballynure+BT39+9UF",
+        "https://www.antiques-atlas.com/bridgendantiques/contact.php"
+      ],
+      "forms": 0
+    },
+    {
+      "width": 390,
+      "firstFocus": "Skip to content",
+      "skipWorks": true,
+      "sellingWorks": true,
+      "errors": [],
+      "scrollWidth": 390,
+      "images": [
+        {
+          "src": "assets/antique-still-life.png",
+          "decoded": true
+        },
+        {
+          "src": "assets/silver-study.png",
+          "decoded": true
+        },
+        {
+          "src": "assets/objects-study.png",
+          "decoded": true
+        },
+        {
+          "src": "assets/showroom-public.jpg",
+          "decoded": true
+        }
+      ],
+      "cta": [
+        {
+          "href": "tel:+447966751699",
+          "height": 56
+        },
+        {
+          "href": "tel:+447966751699",
+          "height": 44
+        },
+        {
+          "href": "tel:+442893341979",
+          "height": 44
+        },
+        {
+          "href": "mailto:[REDACTED_EMAIL]",
+          "height": 44
+        }
+      ],
+      "external": [
+        "https://www.antiques-atlas.com/bridgendantiques/",
+        "https://www.yell.com/biz/bridgend-antiques-ballyclare-6999917/",
+        "https://www.google.com/maps/search/?api=1&query=Bridgend+Antiques+50+Church+Road+Ballynure+BT39+9UF",
+        "https://www.antiques-atlas.com/bridgendantiques/contact.php"
+      ],
+      "forms": 0
+    },
+    {
+      "width": 768,
+      "firstFocus": "Skip to content",
+      "skipWorks": true,
+      "sellingWorks": true,
+      "errors": [],
+      "scrollWidth": 768,
+      "images": [
+        {
+          "src": "assets/antique-still-life.png",
+          "decoded": true
+        },
+        {
+          "src": "assets/silver-study.png",
+          "decoded": true
+        },
+        {
+          "src": "assets/objects-study.png",
+          "decoded": true
+        },
+        {
+          "src": "assets/showroom-public.jpg",
+          "decoded": true
+        }
+      ],
+      "cta": [
+        {
+          "href": "tel:+447966751699",
+          "height": 58
+        },
+        {
+          "href": "tel:+447966751699",
+          "height": 44
+        },
+        {
+          "href": "tel:+442893341979",
+          "height": 44
+        },
+        {
+          "href": "mailto:[REDACTED_EMAIL]",
+          "height": 44
+        }
+      ],
+      "external": [
+        "https://www.antiques-atlas.com/bridgendantiques/",
+        "https://www.yell.com/biz/bridgend-antiques-ballyclare-6999917/",
+        "https://www.google.com/maps/search/?api=1&query=Bridgend+Antiques+50+Church+Road+Ballynure+BT39+9UF",
+        "https://www.antiques-atlas.com/bridgendantiques/contact.php"
+      ],
+      "forms": 0
+    },
+    {
+      "width": 1440,
+      "firstFocus": "Skip to content",
+      "skipWorks": true,
+      "sellingWorks": true,
+      "errors": [],
+      "scrollWidth": 1440,
+      "images": [
+        {
+          "src": "assets/antique-still-life.png",
+          "decoded": true
+        },
+        {
+          "src": "assets/silver-study.png",
+          "decoded": true
+        },
+        {
+          "src": "assets/objects-study.png",
+          "decoded": true
+        },
+        {
+          "src": "assets/showroom-public.jpg",
+          "decoded": true
+        }
+      ],
+      "cta": [
+        {
+          "href": "tel:+447966751699",
+          "height": 58
+        },
+        {
+          "href": "tel:+447966751699",
+          "height": 44
+        },
+        {
+          "href": "tel:+442893341979",
+          "height": 44
+        },
+        {
+          "href": "mailto:[REDACTED_EMAIL]",
+          "height": 44
+        }
+      ],
+      "external": [
+        "https://www.antiques-atlas.com/bridgendantiques/",
+        "https://www.yell.com/biz/bridgend-antiques-ballyclare-6999917/",
+        "https://www.google.com/maps/search/?api=1&query=Bridgend+Antiques+50+Church+Road+Ballynure+BT39+9UF",
+        "https://www.antiques-atlas.com/bridgendantiques/contact.php"
+      ],
+      "forms": 0
+    }
+  ]
+}

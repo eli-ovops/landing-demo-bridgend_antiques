@@ -1,0 +1,20 @@
+[
+  {
+    "path": "static/showroom-slide-1.jpg",
+    "sha256": "3cdba2effd6edf20c3d2d6e934c631ee6fcf538c40043e7c83ef0316f0abafce",
+    "source_record": "../originals/upgrade/fetch.json",
+    "original": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/originals/upgrade/yell-original-0.jpg",
+    "attribution": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; matches respective view in dealer showroom triptych",
+    "treatment": "Unmodified original; separate complete views, no watermark removal or image editing",
+    "scope": "Local concept only; final transfer UNKNOWN"
+  },
+  {
+    "path": "static/showroom-slide-2.jpg",
+    "sha256": "74a058d1557a4d00f0c92b647a372b9e12a9d75938102ef488a7e57e3f991daa",
+    "source_record": "../originals/upgrade/fetch.json",
+    "original": "/Volumes/EXTERNAL/\u6d77\u5916\u843d\u5730\u9875/client_bridgend_antiques/originals/upgrade/yell-original-1.jpg",
+    "attribution": "BUSINESS-ATTRIBUTABLE THIRD-PARTY HOSTED; matches respective view in dealer showroom triptych",
+    "treatment": "Unmodified original; separate complete views, no watermark removal or image editing",
+    "scope": "Local concept only; final transfer UNKNOWN"
+  }
+]

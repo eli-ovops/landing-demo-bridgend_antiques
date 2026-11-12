@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "viewport": 390,
+  "flow": [
+    "search",
+    "detail",
+    "product enquiry",
+    "durable receipt",
+    "operator setup",
+    "login",
+    "inbox read",
+    "status saved",
+    "logout",
+    "protected export"
+  ],
+  "browserErrors": []
+}
